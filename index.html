@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Diwali Offers | 87% discount</title>
+
+  <!-- 🪔 Favicon -->
+  <link rel="icon" type="image/png" href="images/favicon.png" />
+  <link rel="apple-touch-icon" href="images/favicon.png" />
+
+  <!-- PDF Libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.28/jspdf.plugin.autotable.min.js"></script>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles/diwali.css" />
+</head>
+
+
+<body>
+    <header>
+        <h1>🎇 Diwali Mega Sale (87% OFF) 🎆</h1>
+    </header>
+
+    <main>
+        <table id="products-table">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Product Name</th>
+                    <th>Content</th>
+                    <th>Actual Price</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody id="product-list"></tbody>
+        </table>
+    </main>
+
+    <footer id="cart-footer">
+        <span id="cart-summary">0 items. ₹0.00</span>
+        <button id="view-cart">🛒 Download PDF</button>
+    </footer>
+
+
+    
+
+    <!-- Popup -->
+    <div id="image-popup" class="popup">
+        <span class="close">&times;</span>
+        <img class="popup-content" id="popup-img" />
+    </div>
+
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>
