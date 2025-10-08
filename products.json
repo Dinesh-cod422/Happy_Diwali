@@ -1,0 +1,982 @@
+[
+  {
+    "image_url": "images/upload/product_image_22_09_2025_01_19_54.webp",
+    "name": "SONY MIB Gun & 5 Pkt Ring Cap",
+    "content": "Box",
+    "actual_price": "1350",
+    "price": "176"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_16_28.webp",
+    "name": "2 3/4' Kuruvi",
+    "content": "1Pkt",
+    "actual_price": "60",
+    "price": "8"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_25_28.webp",
+    "name": "2 3/4' Kuruvi Deluxe",
+    "content": "1Pkt",
+    "actual_price": "80",
+    "price": "10"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_52_14.webp",
+    "name": "3 1/2' Lakshmi",
+    "content": "1Pkt",
+    "actual_price": "130",
+    "price": "17"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_52_44.webp",
+    "name": "3 1/2' Lakshmi Deluxe",
+    "content": "1Pkt",
+    "actual_price": "150",
+    "price": "20"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_53_00.webp",
+    "name": "4' Lakshmi",
+    "content": "1Pkt",
+    "actual_price": "220",
+    "price": "29"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_16_56.webp",
+    "name": "4' Lakshmi Deluxe",
+    "content": "1Pkt",
+    "actual_price": "320",
+    "price": "42"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_54_16.webp",
+    "name": "Gold Lakshmi",
+    "content": "1Pkt",
+    "actual_price": "330",
+    "price": "43"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_24_38.webp",
+    "name": "Gold Lakshmi Deluxe",
+    "content": "1Pkt",
+    "actual_price": "350",
+    "price": "46"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_23_56.webp",
+    "name": "2 Sound Cracker",
+    "content": "1 Pkt",
+    "actual_price": "290",
+    "price": "38"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "JALLIKATTU",
+    "content": "PKT",
+    "actual_price": "570",
+    "price": "74"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_29_14.webp",
+    "name": "1 1/2' Twinkling Star",
+    "content": "1Box",
+    "actual_price": "300",
+    "price": "39"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_29_27.webp",
+    "name": "4' Twinkling Star",
+    "content": "1Box",
+    "actual_price": "720",
+    "price": "94"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_25_54.webp",
+    "name": "Bullet Bomb",
+    "content": "1Box",
+    "actual_price": "250",
+    "price": "33"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_52_23.webp",
+    "name": "Hydro Bomb",
+    "content": "1Box",
+    "actual_price": "580",
+    "price": "75"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_52_43.webp",
+    "name": "Classic Bomb",
+    "content": "1Box",
+    "actual_price": "1400",
+    "price": "182"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Digital Bomb",
+    "content": "1Box",
+    "actual_price": "2200",
+    "price": "286"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Laser Bomb",
+    "content": "1Box",
+    "actual_price": "2500",
+    "price": "325"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_51_46.webp",
+    "name": "Plastic Chakkar Spinner Big (10 Pcs)",
+    "content": "1Box",
+    "actual_price": "420",
+    "price": "55"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_51_28.webp",
+    "name": "Chakkar Big (25 Pcs)",
+    "content": "1Box",
+    "actual_price": "950",
+    "price": "124"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_50_51.webp",
+    "name": "Chakkar Deluxe",
+    "content": "1Box",
+    "actual_price": "1150",
+    "price": "150"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_50_32.webp",
+    "name": "Chakkar Spinner Special",
+    "content": "1Box",
+    "actual_price": "1200",
+    "price": "156"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_50_05.webp",
+    "name": "Chakkar Spinner Deluxe",
+    "content": "1Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_16_09_2025_06_33_53.webp",
+    "name": "Wire Chakkar",
+    "content": "Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_26_56.webp",
+    "name": "Disco Wheel",
+    "content": "Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_09_15.webp",
+    "name": "Flower Pots Small",
+    "content": "1Box",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_09_55.webp",
+    "name": "Flower Pots Big",
+    "content": "1Box",
+    "actual_price": "540",
+    "price": "70"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_11_12.webp",
+    "name": "Flower Pots Special",
+    "content": "1Box",
+    "actual_price": "880",
+    "price": "114"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_11_50.webp",
+    "name": "Flower Pots Asoka",
+    "content": "1Box",
+    "actual_price": "1100",
+    "price": "143"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Flower Pots Dlx (10 Pcs)",
+    "content": "1Box",
+    "actual_price": "2200",
+    "price": "286"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_12_29.webp",
+    "name": "Colour koti",
+    "content": "1Box",
+    "actual_price": "1950",
+    "price": "254"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_14_20.webp",
+    "name": "Multi Pots (5 Colours)",
+    "content": "Box",
+    "actual_price": "2350",
+    "price": "306"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_30_16.webp",
+    "name": "Rocket Bomb",
+    "content": "1Box",
+    "actual_price": "750",
+    "price": "98"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_06_16_01.webp",
+    "name": "Lunik Rocket",
+    "content": "1Box",
+    "actual_price": "1150",
+    "price": "150"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_06_16_16.webp",
+    "name": "Whistling Rocket",
+    "content": "1Box",
+    "actual_price": "1650",
+    "price": "215"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_37_44.webp",
+    "name": "1/4 kg Paper Bomb",
+    "content": "1Box",
+    "actual_price": "500",
+    "price": "65"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_33_05.webp",
+    "name": "1/2 kg Paper Bomb",
+    "content": "1Box",
+    "actual_price": "1000",
+    "price": "130"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_32_13.webp",
+    "name": "1 kg Paper Bomb",
+    "content": "1Box",
+    "actual_price": "2000",
+    "price": "260"
+  },
+  {
+    "image_url": "images/upload/product_image_16_09_2025_06_39_01.webp",
+    "name": "1K Wala",
+    "content": "1Box",
+    "actual_price": "2000",
+    "price": "260"
+  },
+  {
+    "image_url": "images/upload/product_image_16_09_2025_06_38_51.webp",
+    "name": "2K Wala",
+    "content": "1Box",
+    "actual_price": "4000",
+    "price": "520"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Red Bijili (50 Pcs)",
+    "content": "Bag",
+    "actual_price": "260",
+    "price": "34"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_29_25.webp",
+    "name": "Red Bijili (100 Pcs)",
+    "content": "Bag",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_30_02.webp",
+    "name": "Stripped Bijili (100 Pcs)",
+    "content": "Bag",
+    "actual_price": "420",
+    "price": "55"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_54_52.webp",
+    "name": "Mother's Red Bijili (100 Pcs)",
+    "content": "1Bag",
+    "actual_price": "420",
+    "price": "55"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_54_41.webp",
+    "name": "Mother's Stripped Bijili (100 Pcs)",
+    "content": "1Bag",
+    "actual_price": "460",
+    "price": "60"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_05_59_01.webp",
+    "name": "Mothers Flower Pots Big",
+    "content": "1Box",
+    "actual_price": "860",
+    "price": "112"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_54_05.webp",
+    "name": "Mothers Flower Pots Special",
+    "content": "1Box",
+    "actual_price": "1150",
+    "price": "150"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_53_29.webp",
+    "name": "Mothers Flower Pots Asoka",
+    "content": "1Box",
+    "actual_price": "1550",
+    "price": "202"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Mothers Flower Pots Deluxe (10 Pcs)",
+    "content": "1Box",
+    "actual_price": "3200",
+    "price": "416"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_05_59_32.webp",
+    "name": "Mothers Colour Koti",
+    "content": "1Box",
+    "actual_price": "2300",
+    "price": "299"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_53_08.webp",
+    "name": "Mothers Colour Koti Deluxe",
+    "content": "1Box",
+    "actual_price": "3900",
+    "price": "507"
+  },
+  {
+    "image_url": "images/upload/product_image_15_09_2025_09_07_40.webp",
+    "name": "Guitar (NEW)",
+    "content": "Box",
+    "actual_price": "1850",
+    "price": "241"
+  },
+  {
+    "image_url": "images/upload/product_image_15_09_2025_09_05_19.webp",
+    "name": "Love Dose",
+    "content": "Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_15_09_2025_09_07_21.webp",
+    "name": "Vel",
+    "content": "Box",
+    "actual_price": "1870",
+    "price": "243"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_37_44.webp",
+    "name": "Gathayautham",
+    "content": "Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_38_41.webp",
+    "name": "Cylinder Smoke Bomb",
+    "content": "Pce",
+    "actual_price": "1850",
+    "price": "241"
+  },
+  {
+    "image_url": "images/upload/product_image_15_09_2025_09_02_59.webp",
+    "name": "Sizzling Star",
+    "content": "Box",
+    "actual_price": "2600",
+    "price": "338"
+  },
+  {
+    "image_url": "images/upload/product_image_16_09_2025_06_32_47.webp",
+    "name": "Kidzz Car",
+    "content": "Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_41_07.webp",
+    "name": "Spinning Sparkler",
+    "content": "Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_06_26.webp",
+    "name": "Money in the Bank",
+    "content": "1Box",
+    "actual_price": "1600",
+    "price": "208"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_07_01_28.webp",
+    "name": "Sound Marraige",
+    "content": "1Box",
+    "actual_price": "1750",
+    "price": "228"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_12_17.webp",
+    "name": "Mansa Musa",
+    "content": "1Box",
+    "actual_price": "1950",
+    "price": "254"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_42_28.webp",
+    "name": "Lollipop",
+    "content": "1Box",
+    "actual_price": "2050",
+    "price": "267"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_00_30.webp",
+    "name": "Sivakasi Queen",
+    "content": "Box",
+    "actual_price": "1950",
+    "price": "254"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_06_51.webp",
+    "name": "Old is Gold",
+    "content": "1Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_05_55_29.webp",
+    "name": "5G Fountain",
+    "content": "1Box",
+    "actual_price": "1550",
+    "price": "202"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_07_34.webp",
+    "name": "4 x 4 Wheels",
+    "content": "1Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_15_09_2025_09_15_26.webp",
+    "name": "Madurai Malli",
+    "content": "1Box",
+    "actual_price": "2050",
+    "price": "267"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_07_07.webp",
+    "name": "90s Watts",
+    "content": "1Box",
+    "actual_price": "1300",
+    "price": "169"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_05_56_16.webp",
+    "name": "20 - Twenty",
+    "content": "Box",
+    "actual_price": "1550",
+    "price": "202"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_00_09.webp",
+    "name": "Water Queen",
+    "content": "Box",
+    "actual_price": "1950",
+    "price": "254"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_05_57_30.webp",
+    "name": "Mumbai Beauty",
+    "content": "Box",
+    "actual_price": "1550",
+    "price": "202"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_05_59_01.webp",
+    "name": "King of Hitler",
+    "content": "Box",
+    "actual_price": "1550",
+    "price": "202"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_55_52.webp",
+    "name": "Kit Kat",
+    "content": "1Box",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_56_10.webp",
+    "name": "Photo Flash",
+    "content": "1Box",
+    "actual_price": "780",
+    "price": "101"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_12_59_02.webp",
+    "name": "Butter Fly",
+    "content": "1Box",
+    "actual_price": "850",
+    "price": "111"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_56_28.webp",
+    "name": "Helicopter",
+    "content": "1Box",
+    "actual_price": "850",
+    "price": "111"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_56_54.webp",
+    "name": "7 Shot",
+    "content": "1Box",
+    "actual_price": "1100",
+    "price": "143"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_58_59.webp",
+    "name": "Disco Shower",
+    "content": "1Box",
+    "actual_price": "1100",
+    "price": "143"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_59_31.webp",
+    "name": "Lucky (Red and Green)",
+    "content": "1Box",
+    "actual_price": "1600",
+    "price": "208"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_59_52.webp",
+    "name": "Rangeela",
+    "content": "1Box",
+    "actual_price": "1350",
+    "price": "176"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_00_25.webp",
+    "name": "Chit Put (10 Pcs)",
+    "content": "1Box",
+    "actual_price": "750",
+    "price": "98"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_03_59.webp",
+    "name": "Star Light",
+    "content": "1Box",
+    "actual_price": "700",
+    "price": "91"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_51_58.webp",
+    "name": "Moon Light",
+    "content": "1Box",
+    "actual_price": "700",
+    "price": "91"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_58_26.webp",
+    "name": "Mega Siren",
+    "content": "1Box",
+    "actual_price": "1950",
+    "price": "254"
+  },
+  {
+    "image_url": "images/upload/product_image_11_09_2025_06_59_36.webp",
+    "name": "Boom Wheels",
+    "content": "1Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_00_44.webp",
+    "name": "Penta",
+    "content": "1Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Smoke Sticks",
+    "content": "1Box",
+    "actual_price": "1500",
+    "price": "195"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_57_18.webp",
+    "name": "Colour Smoke",
+    "content": "1Box",
+    "actual_price": "1600",
+    "price": "208"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Coke",
+    "content": "1Box",
+    "actual_price": "1100",
+    "price": "143"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_01_14.webp",
+    "name": "Golden Flash",
+    "content": "1Box",
+    "actual_price": "1100",
+    "price": "143"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Tri Colour",
+    "content": "1Box",
+    "actual_price": "2800",
+    "price": "364"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_57_58.webp",
+    "name": "Tri Colour Dlx",
+    "content": "1Box",
+    "actual_price": "3000",
+    "price": "390"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_09_57_37.webp",
+    "name": "Jolly Wonder",
+    "content": "Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Mazza 12 Shot (Green (or) Red",
+    "content": "1Box",
+    "actual_price": "1800",
+    "price": "234"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Magic Trick 12 Multi Color Shot",
+    "content": "1Box",
+    "actual_price": "2200",
+    "price": "286"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_31_46.webp",
+    "name": "15 Shot Multi Colour",
+    "content": "1Box",
+    "actual_price": "2300",
+    "price": "299"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_34_36.webp",
+    "name": "30 Shot Multi Colour",
+    "content": "1Box",
+    "actual_price": "3500",
+    "price": "455"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_32_58.webp",
+    "name": "30 Shot Multi Colour (Special)",
+    "content": "1Box",
+    "actual_price": "4000",
+    "price": "520"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_39_32.webp",
+    "name": "60 Shot Multi Colour",
+    "content": "1Box",
+    "actual_price": "7000",
+    "price": "910"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_33_19.webp",
+    "name": "60 Shot Multi Colour (Special)",
+    "content": "1Box",
+    "actual_price": "8000",
+    "price": "1040"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_36_58.webp",
+    "name": "120 Shot Multi Colour (Special)",
+    "content": "1Box",
+    "actual_price": "16000",
+    "price": "2080"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_12_58_04.webp",
+    "name": "Chotta Fancy",
+    "content": "1Box",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_12_58_28.webp",
+    "name": "2' inch Fancy (3 in 1)",
+    "content": "1Box",
+    "actual_price": "2400",
+    "price": "312"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_23_57.webp",
+    "name": "2' Fancy",
+    "content": "1Box",
+    "actual_price": "850",
+    "price": "111"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_25_02.webp",
+    "name": "3 1/2' Fancy",
+    "content": "1Box",
+    "actual_price": "2000",
+    "price": "260"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_12_25_26.webp",
+    "name": "4' Fancy",
+    "content": "1Box",
+    "actual_price": "2500",
+    "price": "325"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "5' Wow Star Orange",
+    "content": "Box",
+    "actual_price": "4600",
+    "price": "598"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "5' Wow Star Blue",
+    "content": "Box",
+    "actual_price": "4600",
+    "price": "598"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "5' Wow Star Lemon",
+    "content": "Box",
+    "actual_price": "4600",
+    "price": "598"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "5' Wow Star Mingle",
+    "content": "Box",
+    "actual_price": "4600",
+    "price": "598"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Power of Bomb",
+    "content": "1Box",
+    "actual_price": "3000",
+    "price": "390"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "Celebration 10 x 10 Set out",
+    "content": "1Box",
+    "actual_price": "30000",
+    "price": "3900"
+  },
+  {
+    "image_url": "images/upload/list_logo_26_08_2025_12_54_10.webp",
+    "name": "2' (30 Set Out) Universal",
+    "content": "1Box",
+    "actual_price": "42000",
+    "price": "5460"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_52_20.webp",
+    "name": "Peacock",
+    "content": "1Box",
+    "actual_price": "1600",
+    "price": "208"
+  },
+  {
+    "image_url": "images/upload/product_image_22_09_2025_09_00_40.webp",
+    "name": "Colour Peacock",
+    "content": "1Box",
+    "actual_price": "1870",
+    "price": "243"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_47_58.webp",
+    "name": "Bada Peacock",
+    "content": "1Box",
+    "actual_price": "3650",
+    "price": "475"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_45_25.webp",
+    "name": "Mother's Mayil",
+    "content": "1Box",
+    "actual_price": "4800",
+    "price": "624"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_42_50.webp",
+    "name": "Bada Peafowl (Metalic)",
+    "content": "1Box",
+    "actual_price": "5000",
+    "price": "650"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_33_21.webp",
+    "name": "Annam Color Match (10 in 1)",
+    "content": "Box",
+    "actual_price": "850",
+    "price": "111"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_32_13.webp",
+    "name": "Crown Color Match (10 in 1)",
+    "content": "Box",
+    "actual_price": "2000",
+    "price": "260"
+  },
+  {
+    "image_url": "images/upload/product_image_23_09_2025_10_35_00.webp",
+    "name": "Laptop Color Match (10 in 1)",
+    "content": "Box",
+    "actual_price": "2450",
+    "price": "319"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_43_27.webp",
+    "name": "10 cm Electric Sparkler",
+    "content": "1Box",
+    "actual_price": "160",
+    "price": "21"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_39_52.webp",
+    "name": "10 cm Colour Sparkler",
+    "content": "1Box",
+    "actual_price": "170",
+    "price": "22"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_12_15.webp",
+    "name": "10 cm Green Sparkler",
+    "content": "1Box",
+    "actual_price": "190",
+    "price": "25"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_12_39.webp",
+    "name": "10 cm Red Sparkler",
+    "content": "1Box",
+    "actual_price": "200",
+    "price": "26"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_38_19.webp",
+    "name": "12 cm Electric Sparkler",
+    "content": "1Box",
+    "actual_price": "240",
+    "price": "31"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_13_11.webp",
+    "name": "12 cm Colour Sparkler",
+    "content": "1Box",
+    "actual_price": "260",
+    "price": "34"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_13_55.webp",
+    "name": "12 cm Green Sparkler",
+    "content": "1Box",
+    "actual_price": "280",
+    "price": "36"
+  },
+  {
+    "image_url": "images/upload/product_image_12_09_2025_06_14_31.webp",
+    "name": "12 cm Red Sparkler",
+    "content": "1Box",
+    "actual_price": "360",
+    "price": "47"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_36_07.webp",
+    "name": "15 cm Electric Sparkler",
+    "content": "1Box",
+    "actual_price": "370",
+    "price": "48"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_35_32.webp",
+    "name": "15 cm Colour Sparkler",
+    "content": "1Box",
+    "actual_price": "380",
+    "price": "49"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_34_36.webp",
+    "name": "15 cm Green Sparkler",
+    "content": "1Box",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_33_59.webp",
+    "name": "15 cm Red Sparkler",
+    "content": "1Box",
+    "actual_price": "420",
+    "price": "55"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_33_05.webp",
+    "name": "30 cm Electric Sparkler",
+    "content": "1Box",
+    "actual_price": "370",
+    "price": "48"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_32_45.webp",
+    "name": "30 cm Colour Sparkler",
+    "content": "1Box",
+    "actual_price": "380",
+    "price": "49"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_32_07.webp",
+    "name": "30 cm Green Sparkler",
+    "content": "1Box",
+    "actual_price": "400",
+    "price": "52"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_31_42.webp",
+    "name": "30 cm Red Sparkler",
+    "content": "1Box",
+    "actual_price": "420",
+    "price": "55"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_31_19.webp",
+    "name": "50 cm Electric Sparkler",
+    "content": "1Box",
+    "actual_price": "1600",
+    "price": "208"
+  },
+  {
+    "image_url": "images/upload/product_image_10_09_2025_05_31_04.webp",
+    "name": "50 cm Colour Sparkler",
+    "content": "1Box",
+    "actual_price": "1800",
+    "price": "234"
+  }
+]
