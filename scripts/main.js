@@ -68,12 +68,15 @@ document.addEventListener("DOMContentLoaded", () => {
     const { jsPDF } = window.jspdf;
     const doc = new jsPDF();
 
+    let grandTotal = 0; // total amount
+
     const selectedProducts = [];
     document.querySelectorAll("#product-list tr").forEach(row => {
       const qty = parseInt(row.querySelector(".qty-input").value) || 0;
       if (qty > 0) {
+        const total = parseFloat(row.querySelector(".total").textContent.replace("₹", "")) || 0;
+        grandTotal += total; // sum total
         selectedProducts.push({
-          Image: row.querySelector(".prod-img").src,
           Name: row.children[1].textContent,
           Content: row.children[2].textContent,
           ActualPrice: row.children[3].textContent,
@@ -118,6 +121,11 @@ document.addEventListener("DOMContentLoaded", () => {
       headStyles: { fillColor: [106, 27, 154], textColor: 255 },
       alternateRowStyles: { fillColor: [255, 235, 59] }
     });
+
+    // Add grand total below table
+    const finalY = doc.lastAutoTable.finalY || 40;
+    doc.setFontSize(12);
+    doc.text(`Grand Total: ₹${grandTotal.toFixed(2)}`, 14, finalY + 10);
 
     doc.save("selected-products.pdf");
   });
